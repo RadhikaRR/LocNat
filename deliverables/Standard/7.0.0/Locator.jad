@@ -1,0 +1,61 @@
+MIDlet-Name: Locator
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: Locator.jar
+MIDlet-Jar-Size: 1934570
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: Locator.cod
+RIM-COD-Size: 30488
+RIM-COD-Creation-Time: 1338475377
+RIM-COD-Module-Name: Locator
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os,net_rim_database,net_rim_bb_maps_api,net_rim_json_org
+RIM-COD-SHA1: fd 94 e3 ad 25 80 6f d8 af 2a 8e 1f 80 89 52 3b 30 1a 10 f8
+RIM-COD-URL-1: Locator-1.cod
+RIM-COD-Size-1: 62828
+RIM-COD-SHA1-1: 97 70 9c db d1 c4 df 68 8f ea 22 f1 55 a4 b4 82 48 19 f1 95
+RIM-COD-URL-2: Locator-2.cod
+RIM-COD-Size-2: 57780
+RIM-COD-SHA1-2: 34 9e ac 58 f4 17 86 51 9f ad e0 6f 67 90 58 e9 85 db eb 49
+RIM-COD-URL-3: Locator-3.cod
+RIM-COD-Size-3: 56880
+RIM-COD-SHA1-3: 71 4d 9f 9a e2 4b 81 27 aa d3 9a 43 53 99 8f c3 f7 66 dc af
+RIM-COD-URL-4: Locator-4.cod
+RIM-COD-Size-4: 50320
+RIM-COD-SHA1-4: 1c a1 4c 9f 83 48 c7 12 ac 6d 83 d3 31 94 04 e8 55 03 8e 54
+RIM-COD-URL-5: Locator-5.cod
+RIM-COD-Size-5: 50320
+RIM-COD-SHA1-5: 9a 74 55 07 3e 7e 1d 42 42 f5 a6 2d d9 7c cb a6 41 23 02 63
+RIM-COD-URL-6: Locator-6.cod
+RIM-COD-Size-6: 50324
+RIM-COD-SHA1-6: 1d ab de 84 61 9e 20 01 3b de 8d 5b 45 06 4b f6 0e bf 5f c5
+RIM-COD-URL-7: Locator-7.cod
+RIM-COD-Size-7: 50324
+RIM-COD-SHA1-7: 0a dd 37 db 01 7a 21 83 60 33 2d cb 5d ad bc 8c dc 3e 16 7f
+RIM-COD-URL-8: Locator-8.cod
+RIM-COD-Size-8: 59688
+RIM-COD-SHA1-8: 5c 06 46 62 21 51 ae 17 6e a1 4a da 00 bf 27 83 05 59 b7 c7
+RIM-COD-URL-9: Locator-9.cod
+RIM-COD-Size-9: 59668
+RIM-COD-SHA1-9: a6 07 53 22 f1 90 19 ad 20 7e 9f c5 5f 00 e4 d6 d2 f7 fd 54
+RIM-COD-URL-10: Locator-10.cod
+RIM-COD-Size-10: 57652
+RIM-COD-SHA1-10: aa da c5 fd 15 7e db 0f 27 09 e4 07 32 b8 49 dc 76 df 47 20
+RIM-COD-URL-11: Locator-11.cod
+RIM-COD-Size-11: 54648
+RIM-COD-SHA1-11: 2d ad 24 2e e2 1b 84 ee cb 0e 87 2a 52 b4 58 ac a7 ed 55 04
+RIM-COD-URL-12: Locator-12.cod
+RIM-COD-Size-12: 56592
+RIM-COD-SHA1-12: 7c 5e 61 72 ae 99 fd 5f f1 86 8c c0 c2 4e ed 0a 44 67 a8 d0
+RIM-COD-URL-13: Locator-13.cod
+RIM-COD-Size-13: 37952
+RIM-COD-SHA1-13: 66 93 ef 9c 47 cb 90 02 c7 a1 b5 73 49 8b cb 09 da 64 4b 02
+RIM-COD-URL-14: Locator-14.cod
+RIM-COD-Size-14: 34308
+RIM-COD-SHA1-14: b7 a7 f2 84 97 03 fe 0a 34 72 ef 02 3b 5b 14 a9 35 15 6b 30
+RIM-COD-URL-15: Locator-15.cod
+RIM-COD-Size-15: 44256
+RIM-COD-SHA1-15: c0 31 db 22 bb 47 2f 3d e9 dd 11 16 73 74 68 4b 5a 31 a0 29
